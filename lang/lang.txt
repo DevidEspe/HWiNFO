@@ -76387,9 +76387,9 @@ tr=Yükseltme:
 he=העלאת קנה מידה:
 
 {{Settings}}
-en=Automatic targeting
+en=Automatic process targeting
 fr=Ciblage automatique
-de=Automatische Zielansteuerung
+de=Automatische Prozessansteuerung
 es=Orientación automática
 pt-BR=Segmentação automática
 it=Obiettivo automatico
@@ -76585,7 +76585,7 @@ he=Text
 {{Settings}}
 en=Graph
 fr=Graphique
-de=Graph
+de=Grafik
 es=Grafico
 pt-BR=Gráfico
 it=Grafico
@@ -76641,7 +76641,7 @@ he=יש להפעיל את HWiNFO מתיקיה מאובטחת (למשל C:\Progra
 {{Settings}}
 en=Opacity:
 fr=Opacité:
-de=Undurchsichtigkeit:
+de=Deckkraft:
 es=Opacidad:
 pt-BR=Opacidade:
 it=Opacità:
@@ -76669,7 +76669,7 @@ he=אֲטִימוּת:
 {{Settings}}
 en=Background opacity:
 fr=Opacité de l'arrière-plan:
-de=Hintergrundopazität:
+de=Hintergrunddeckkraft:
 es=Opacidad del fondo:
 pt-BR=Opacidade do fundo:
 it=Opacità dello sfondo:
